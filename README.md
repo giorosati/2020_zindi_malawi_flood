@@ -19,7 +19,9 @@ For each square thre is the following data:
 
 The target variable is the proportion of flooding (0 to 1) for each square. 
 
-The predictive model will be assessed using the data from the 2019 data.
+The predictive model will be assessed using the data from the 2019 data and the 
+evaluation metric will be Root Mean Squared Error.
+
 
 
 
